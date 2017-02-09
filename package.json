@@ -1,0 +1,19 @@
+{
+  "name": "platformblue",
+  "version": "0.1.0",
+  "description": "tom is a pain in my ass",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChicagosNext/PlatformBlue.git"
+  },
+  "author": "Andrew Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChicagosNext/PlatformBlue/issues"
+  },
+  "homepage": "https://github.com/ChicagosNext/PlatformBlue#readme"
+}
